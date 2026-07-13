@@ -1,0 +1,4 @@
+# Large datasets
+data/epidemiology/compact.csv
+data/genome/sequences.fasta
+data/genome/sequences.tsv
