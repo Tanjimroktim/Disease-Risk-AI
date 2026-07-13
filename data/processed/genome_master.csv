@@ -1,0 +1,519 @@
+Accession,Length,GC_Content,N_Count,Pangolin,Genotype,Country,Geo_Location,Collection_Date,Host
+PP301386,29721,37.56,261,JN.1.18,,Bangladesh,Bangladesh,2023-12-30,Homo sapiens
+PP301387,29721,37.51,300,JN.1,,Bangladesh,Bangladesh,2023-12-19,Homo sapiens
+PP301388,29721,37.87,8,JN.1.18,,Bangladesh,Bangladesh,2023-12-30,Homo sapiens
+PP231958,29718,37.15,634,GE.1,,Bangladesh,Bangladesh,2023-12-14,Homo sapiens
+PP231959,29709,37.19,565,JN.1,,Bangladesh,Bangladesh,2023-12-22,Homo sapiens
+OR889510,29724,36.93,760,BA.2.10.1,,Bangladesh,Bangladesh: Chattogram,2022-01-13,Homo sapiens
+OR889511,29724,36.93,756,BA.2.10.1,,Bangladesh,Bangladesh: Chattogram,2022-01-23,Homo sapiens
+OR889512,29747,37.62,261,BA.1.1,,Bangladesh,Bangladesh: Chattogram,2022-01-25,Homo sapiens
+OR889513,29724,37.22,517,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-01-29,Homo sapiens
+OR889514,29724,37.9,10,BA.2.50,,Bangladesh,Bangladesh: Chattogram,2022-02-03,Homo sapiens
+OR889531,29729,35.14,2235,BA.2.10,,Bangladesh,Bangladesh: Chattogram,2022-02-05,Homo sapiens
+OR889532,29729,36.56,1075,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-02-12,Homo sapiens
+OR889533,29729,35.85,1642,BA.2.10.1,,Bangladesh,Bangladesh: Chattogram,2022-02-14,Homo sapiens
+OR889534,29729,37.16,609,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-02-08,Homo sapiens
+OR889535,29729,36.82,900,BA.2.50,,Bangladesh,Bangladesh: Chattogram,2022-02-05,Homo sapiens
+OR889538,29724,37.89,10,BA.2.10,,Bangladesh,Bangladesh: Chattogram,2022-06-09,Homo sapiens
+OR889542,29719,37.55,294,BA.5.2,,Bangladesh,Bangladesh: Chattogram,2022-03-05,Homo sapiens
+OR889543,29722,36.93,776,BA.5.1,,Bangladesh,Bangladesh: Dhaka,2022-06-20,Homo sapiens
+OR889546,29729,37.57,279,BA.2.10,,Bangladesh,Bangladesh: Dhaka,2022-02-07,Homo sapiens
+OR889547,29729,37.56,279,BA.2,,Bangladesh,Bangladesh: Dhaka,2022-01-20,Homo sapiens
+OR889548,29723,36.87,804,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-13,Homo sapiens
+OR889549,29435,35.34,1949,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-15,Homo sapiens
+OR889551,29782,38.0,8,B.1.1.25,,Bangladesh,Bangladesh: Dhaka,2022-12-08,Homo sapiens
+OR889556,29723,36.2,1359,BA.5.3.1,,Bangladesh,Bangladesh: Dhaka,2022-06-20,Homo sapiens
+OR889557,29723,36.16,1370,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-23,Homo sapiens
+OR889558,29723,34.64,2648,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-24,Homo sapiens
+OR889559,29723,36.54,1081,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-25,Homo sapiens
+OR889560,29723,36.53,1092,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-26,Homo sapiens
+OR889561,29723,36.55,1085,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-29,Homo sapiens
+OR889562,29723,36.23,1325,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-30,Homo sapiens
+OR889563,29723,35.26,2129,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-07-02,Homo sapiens
+OR889564,29719,35.04,2286,BA.5.2,,Bangladesh,Bangladesh: Dhaka,2022-07-03,Homo sapiens
+OR889565,29723,36.52,1096,BA.5.3.1,,Bangladesh,Bangladesh: Dhaka,2022-07-04,Homo sapiens
+OR889566,29729,37.24,538,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-01-18,Homo sapiens
+OR889568,29719,34.77,2458,BA.5.2,,Bangladesh,Bangladesh: Chattogram,2022-06-13,Homo sapiens
+OR889569,29746,37.03,765,BA.1.1,,Bangladesh,Bangladesh: Chattogram,2022-01-18,Homo sapiens
+OR889570,29746,37.04,758,BA.1.1,,Bangladesh,Bangladesh: Chattogram,2022-01-09,Homo sapiens
+OR889571,29729,36.94,787,BA.2.10,,Bangladesh,Bangladesh: Chattogram,2022-01-07,Homo sapiens
+OR889575,29723,36.92,781,BA.5.3.1,,Bangladesh,Bangladesh: Chattogram,2022-06-13,Homo sapiens
+OR889576,29729,36.92,782,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-05-07,Homo sapiens
+OR889578,29729,36.93,778,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-01-11,Homo sapiens
+OR889579,29719,36.6,1028,BA.5.2,,Bangladesh,Bangladesh: Chattogram,2022-06-10,Homo sapiens
+OR889580,29729,36.92,788,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-03-09,Homo sapiens
+OR889581,29729,36.56,1069,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-02-15,Homo sapiens
+OR889589,29723,37.22,537,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-13,Homo sapiens
+OR889590,29723,37.45,357,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-14,Homo sapiens
+OR889591,29723,36.3,1295,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-29,Homo sapiens
+OR889592,29746,36.88,907,BA.1.1,,Bangladesh,Bangladesh: Chattogram,2022-01-03,Homo sapiens
+OR775439,29743,37.37,477,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OR775440,29731,37.38,445,BA.2,,Bangladesh,Bangladesh,2022-01-11,Homo sapiens
+OR775441,29746,37.19,571,BA.5.2,,Bangladesh,Bangladesh,2022-06-10,Homo sapiens
+OR775446,29750,37.61,246,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OR775447,29751,37.57,257,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-23,Homo sapiens
+OR775448,29775,37.93,33,BA.1.1,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OR775449,29752,37.9,12,BA.2,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OR775454,29780,36.6,1097,BA.2.10,,Bangladesh,Bangladesh,2022-02-05,Homo sapiens
+OR729847,29810,37.9,8,BA.2.10,,Bangladesh,Bangladesh: Dhaka,2022-02-07,Homo sapiens
+OR729848,29735,37.9,3,BA.2,,Bangladesh,Bangladesh: Dhaka,2022-01-20,Homo sapiens
+OR729849,29747,37.33,441,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-13,Homo sapiens
+OR729850,29728,37.88,6,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-13,Homo sapiens
+OR729851,29725,37.88,4,BE.4,,Bangladesh,Bangladesh: Dhaka,2022-06-14,Homo sapiens
+OR729852,29784,38.0,5,B.1.1.25,,Bangladesh,Bangladesh: Dhaka,2022-12-08,Homo sapiens
+OR729853,29751,37.65,210,BA.5.1,,Bangladesh,Bangladesh: Dhaka,2022-06-20,Homo sapiens
+OR729855,29749,37.37,434,BE.4,,Bangladesh,Bangladesh: Chattogram,2022-06-13,Homo sapiens
+OR729856,29732,37.6,261,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-01-18,Homo sapiens
+OR729858,29720,36.4,1210,BA.5.2,,Bangladesh,Bangladesh: Chattogram,2022-06-12,Homo sapiens
+OR729859,29736,37.58,285,BA.2.10,,Bangladesh,Bangladesh: Chattogram,2022-01-07,Homo sapiens
+OR729860,29780,37.17,621,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-05-07,Homo sapiens
+OR729864,29731,37.16,626,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-03-09,Homo sapiens
+OR729881,29763,37.87,19,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-02-08,Homo sapiens
+OR729882,29757,37.6,267,BA.2,,Bangladesh,Bangladesh: Chattogram,2022-02-05,Homo sapiens
+OR729883,29779,37.89,11,BA.5.2,,Bangladesh,Bangladesh: Chattogram,2022-03-05,Homo sapiens
+OR729884,29801,37.07,734,AY.131,,Bangladesh,Bangladesh: Dhaka,2022-08-01,Homo sapiens
+OR729886,29772,37.89,10,BA.2.10,,Bangladesh,Bangladesh: Chattogram,2022-06-09,Homo sapiens
+OR098782,29721,36.98,768,FL.4,,Bangladesh,Bangladesh: Dhaka,2023-01-07,Homo sapiens
+OR098783,29721,37.69,184,XBB.1,,Bangladesh,Bangladesh: Dhaka,2023-05-15,Homo sapiens
+OR098784,29718,37.35,443,XBB.2.3.20,,Bangladesh,Bangladesh: Dhaka,2023-05-17,Homo sapiens
+OR098785,29724,36.95,794,XBB.3,,Bangladesh,Bangladesh: Chattogram,2022-10-15,Homo sapiens
+OP090330,592,35.64,0,unclassifiable,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OP090331,598,35.62,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-08,Homo sapiens
+OP090332,592,35.64,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-05,Homo sapiens
+OP090333,543,35.73,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-05,Homo sapiens
+OP090334,599,35.56,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-16,Homo sapiens
+OP090335,599,35.56,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-07,Homo sapiens
+OP090336,599,35.56,0,unclassifiable,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+OP090337,543,35.73,0,unclassifiable,,Bangladesh,Bangladesh,2022-01-30,Homo sapiens
+OP090338,576,36.11,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OP090339,600,35.67,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-07,Homo sapiens
+OP090340,603,35.49,0,unclassifiable,,Bangladesh,Bangladesh,2022-02-07,Homo sapiens
+OQ075381,29726,37.01,736,XBB.1,,Bangladesh,Bangladesh,2022-09-29,Homo sapiens
+OQ075382,29726,37.01,734,XBB.1,,Bangladesh,Bangladesh,2022-09-29,Homo sapiens
+OQ075383,29438,35.88,1560,XBB.1,,Bangladesh,Bangladesh,2022-09-29,Homo sapiens
+OQ075384,29438,35.86,1565,XBB.1,,Bangladesh,Bangladesh,2022-10-01,Homo sapiens
+OQ075385,29726,37.01,738,XBB.1,,Bangladesh,Bangladesh,2022-10-01,Homo sapiens
+OQ075386,29726,37.0,737,XBB.1,,Bangladesh,Bangladesh,2022-10-01,Homo sapiens
+OQ075387,29726,36.71,974,XBB.8,,Bangladesh,Bangladesh,2022-10-01,Homo sapiens
+OQ075388,29438,36.61,978,XBB.1,,Bangladesh,Bangladesh,2022-10-01,Homo sapiens
+OQ075389,29726,36.71,973,XBB.1,,Bangladesh,Bangladesh,2022-10-01,Homo sapiens
+OQ075390,29438,35.89,1557,XBB.1,,Bangladesh,Bangladesh,2022-10-02,Homo sapiens
+OQ075391,29438,35.86,1563,XBB.1,,Bangladesh,Bangladesh,2022-10-02,Homo sapiens
+OQ075392,29438,36.29,1227,XBB.1,,Bangladesh,Bangladesh,2022-10-02,Homo sapiens
+OQ075393,29726,36.71,973,XBB.1,,Bangladesh,Bangladesh,2022-10-03,Homo sapiens
+OQ075394,29438,35.89,1553,XBB.1,,Bangladesh,Bangladesh,2022-10-03,Homo sapiens
+OQ075395,29726,36.31,1305,XBB.1,,Bangladesh,Bangladesh,2022-10-04,Homo sapiens
+OQ075396,29438,36.19,1312,XBB.1,,Bangladesh,Bangladesh,2022-10-06,Homo sapiens
+OQ075397,29726,36.71,974,XBB.1,,Bangladesh,Bangladesh,2022-10-06,Homo sapiens
+OQ075398,29438,36.19,1319,XBB.1,,Bangladesh,Bangladesh,2022-10-08,Homo sapiens
+OQ075399,29726,37.01,739,XBB.1,,Bangladesh,Bangladesh,2022-10-12,Homo sapiens
+OQ075400,29438,36.19,1319,XBB.1,,Bangladesh,Bangladesh,2022-10-13,Homo sapiens
+OQ075401,29438,35.88,1553,XBB.1,,Bangladesh,Bangladesh,2022-10-15,Homo sapiens
+OQ075402,29687,37.0,737,XBB.1,,Bangladesh,Bangladesh,2022-10-15,Homo sapiens
+OQ075403,29726,36.7,979,XBB.1,,Bangladesh,Bangladesh,2022-10-15,Homo sapiens
+OQ075404,29726,37.33,480,XBB.1,,Bangladesh,Bangladesh,2022-10-15,Homo sapiens
+OQ075405,29721,37.38,448,XBB.8,,Bangladesh,Bangladesh,2022-09-20,Homo sapiens
+OQ075406,29721,37.01,733,XBB.1,,Bangladesh,Bangladesh,2022-09-21,Homo sapiens
+OQ075407,29721,37.36,451,XBB.1,,Bangladesh,Bangladesh,2022-09-24,Homo sapiens
+OQ075408,29721,37.6,248,XBB.1,,Bangladesh,Bangladesh,2022-09-25,Homo sapiens
+OQ075409,29721,37.02,665,XBB.1,,Bangladesh,Bangladesh,2022-09-25,Homo sapiens
+OQ075410,29721,37.02,665,XBB.1,,Bangladesh,Bangladesh,2022-09-25,Homo sapiens
+OQ075411,29721,37.36,453,XBB.1,,Bangladesh,Bangladesh,2022-09-26,Homo sapiens
+OQ075412,29724,37.37,453,XBB.1,,Bangladesh,Bangladesh,2022-09-28,Homo sapiens
+OQ075413,29724,37.36,457,XBB.1,,Bangladesh,Bangladesh,2022-09-28,Homo sapiens
+OQ075414,29721,36.71,913,XBB.1,,Bangladesh,Bangladesh,2022-09-24,Homo sapiens
+OQ075415,29721,34.51,2644,XBB.1,,Bangladesh,Bangladesh,2022-09-24,Homo sapiens
+OQ075416,29721,37.68,197,XBB,,Bangladesh,Bangladesh,2022-09-25,Homo sapiens
+OQ075417,29721,36.4,1175,XBB.1,,Bangladesh,Bangladesh,2022-09-27,Homo sapiens
+OQ075418,29724,37.35,477,XBB.1,,Bangladesh,Bangladesh,2022-09-28,Homo sapiens
+OQ075419,29721,37.36,447,XBB.1,,Bangladesh,Bangladesh,2022-09-28,Homo sapiens
+OQ075420,29721,37.37,449,XBB.1,,Bangladesh,Bangladesh,2022-09-28,Homo sapiens
+OP390081,29729,35.2,2199,BA.2.75.1,,Bangladesh,Bangladesh: Dhaka,2022-08-07,Homo sapiens
+OP164776,29723,37.24,518,BE.4,,Bangladesh,Bangladesh,2022-06-14,Homo sapiens
+OP164777,29723,37.24,518,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-13,Homo sapiens
+OP164778,29723,37.24,521,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-13,Homo sapiens
+OP164779,29723,37.24,519,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-14,Homo sapiens
+OP164780,29723,37.24,520,BE.4,,Bangladesh,Bangladesh,2022-06-15,Homo sapiens
+OP164781,29723,37.24,521,BA.5.2,,Bangladesh,Bangladesh,2022-06-17,Homo sapiens
+OP164782,29723,37.24,523,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-18,Homo sapiens
+OP164783,29722,36.93,774,BA.5.1,,Bangladesh,Bangladesh,2022-05-29,Homo sapiens
+OP164784,29722,36.93,781,BA.5.1,,Bangladesh,Bangladesh,2022-06-04,Homo sapiens
+OP164785,29723,37.24,519,BA.5.2,,Bangladesh,Bangladesh,2022-06-13,Homo sapiens
+OP164786,29723,37.24,519,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-08,Homo sapiens
+OP164787,29723,37.24,520,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-14,Homo sapiens
+OP164788,29723,37.24,520,BA.5.2,,Bangladesh,Bangladesh,2022-06-16,Homo sapiens
+OP164789,29723,37.24,520,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-18,Homo sapiens
+OP164790,29723,37.24,527,BA.5,,Bangladesh,Bangladesh,2022-06-18,Homo sapiens
+OP164791,29723,37.23,520,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-18,Homo sapiens
+OP164792,29723,37.3,495,BE.4,,Bangladesh,Bangladesh,2022-06-14,Homo sapiens
+OP164793,29723,37.23,522,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-14,Homo sapiens
+OP164794,29723,37.54,283,BE.4,,Bangladesh,Bangladesh,2022-06-14,Homo sapiens
+OP164795,29723,37.24,519,BA.5.2,,Bangladesh,Bangladesh,2022-06-15,Homo sapiens
+OP164796,29723,36.83,883,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-16,Homo sapiens
+OP164797,29723,37.36,436,BA.5.3.1,,Bangladesh,Bangladesh,2022-06-16,Homo sapiens
+ON974872,29785,37.86,26,BA.2.10,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON974873,29789,37.86,26,BA.2.10,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON980705,29825,37.7,160,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-30,Homo sapiens
+ON980706,29788,37.79,96,BA.2.10,,Bangladesh,Bangladesh,2022-01-30,Homo sapiens
+ON810538,29823,37.86,26,BA.2,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON810539,29810,37.86,26,BA.2.10,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON810540,29789,37.87,26,BA.2.10,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON810541,29785,37.86,26,BA.2.10,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON810542,29789,37.86,26,BA.2.10,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+ON810543,29811,37.87,26,BA.2,,Bangladesh,Bangladesh,2022-01-30,Homo sapiens
+ON810544,29787,37.6,249,BA.2.10,,Bangladesh,Bangladesh,2022-01-30,Homo sapiens
+ON026021,29787,37.97,0,BA.1,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+ON026022,29790,37.92,35,BA.1,,Bangladesh,Bangladesh,2022-01-04,Homo sapiens
+ON026023,29791,37.85,91,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-04,Homo sapiens
+ON026024,29797,37.96,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+ON026025,29771,37.9,0,BA.2,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+ON026026,29771,37.92,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+ON026027,29768,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+ON026028,29768,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+ON026029,29794,37.97,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-16,Homo sapiens
+ON026030,29798,37.97,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026031,29758,37.91,0,BA.2.37,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026032,29771,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026033,29768,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026034,29760,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026035,29776,37.97,0,BA.1,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026036,29789,37.96,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026037,29749,37.55,284,BA.2.10,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026038,29770,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-22,Homo sapiens
+ON026039,29771,37.92,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-22,Homo sapiens
+ON026040,29770,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-22,Homo sapiens
+ON026041,29770,37.9,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-29,Homo sapiens
+ON026042,29786,37.95,0,BA.1.18,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+ON026043,29789,37.97,0,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+ON026044,29774,37.91,0,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+ON026045,29794,37.95,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+ON026046,29788,37.96,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+ON026047,29754,37.68,195,BA.2,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+ON026048,29790,37.72,192,BA.1.1,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+ON026049,29793,37.97,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+ON026050,29791,37.96,0,BA.1.18,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+ON026051,29762,37.9,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026052,29771,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026053,29791,37.96,0,BA.1.18,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026054,29763,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026055,29793,37.96,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026056,29749,37.92,0,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026057,29768,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026058,29784,37.96,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-20,Homo sapiens
+ON026059,29768,37.9,0,BA.2,,Bangladesh,Bangladesh,2022-01-30,Homo sapiens
+OM988402,29487,32.71,4067,BA.2,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988403,29015,26.61,8896,unclassifiable,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988404,29768,37.8,92,BA.2.10,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988405,29484,37.26,491,BA.2.10,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988406,29488,35.41,2008,BA.2,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988407,29656,28.76,7366,B.1.1.529,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988408,29772,35.78,1800,BA.1.1,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988409,29479,27.07,8656,unclassifiable,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988410,29494,32.1,4674,BA.1.1,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988411,29489,34.39,2892,B.1.1.529,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988412,29772,37.01,808,BA.1.1,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM988413,29783,37.0,700,BA.2,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988414,29777,37.63,242,BA.2.10,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988415,29672,29.14,7064,B.1.1.529,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988416,29487,29.05,7024,B.1.1.529,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988417,29488,25.19,10108,unclassifiable,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988418,29489,33.46,3464,BA.2,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988419,29786,37.38,494,BA.1.1,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988420,29482,27.05,8714,unclassifiable,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988421,29506,30.1,6292,BA.1.1,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM988422,29762,37.61,255,BA.2.10.1,,Bangladesh,Bangladesh,2022-02-01,Homo sapiens
+OM760603,29784,36.59,1140,BA.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760604,29773,36.86,890,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760605,29768,37.25,546,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760606,29796,37.22,591,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760607,29784,36.84,935,BA.1.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760608,29768,37.46,372,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760609,29760,37.34,472,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760620,29776,36.63,1072,BA.2,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM760621,29771,36.71,1000,BA.2,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM760622,29772,36.6,1095,BA.2,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM760544,29778,34.99,2523,B.1.1.529,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OM760545,29697,34.07,3221,B.1.1.529,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OM760546,29567,32.8,4094,BA.2,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OM760547,29778,36.59,1105,BA.2,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OM760548,29780,36.28,1395,BA.1.1,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OM760549,29755,36.84,895,BA.2,,Bangladesh,Bangladesh,2022-02-03,Homo sapiens
+OM760551,29774,36.57,1173,BA.1,,Bangladesh,Bangladesh,2022-02-06,Homo sapiens
+OM760552,29808,37.2,636,BA.1,,Bangladesh,Bangladesh,2022-02-06,Homo sapiens
+OM760553,29798,36.72,1028,BA.2,,Bangladesh,Bangladesh,2022-02-06,Homo sapiens
+OM760554,29768,37.3,502,BA.2,,Bangladesh,Bangladesh,2022-02-06,Homo sapiens
+OM760555,29785,36.48,1218,BA.1,,Bangladesh,Bangladesh,2022-02-06,Homo sapiens
+OM760558,29806,37.66,230,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760559,29780,36.52,1196,BA.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760560,29783,35.78,1842,B.1.1.529,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760561,29805,37.42,447,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760562,29782,36.08,1569,BA.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760563,29777,36.46,1229,BA.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760564,29761,37.3,498,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760565,29787,35.88,1733,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760566,29780,36.46,1213,BA.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760567,29781,36.54,1162,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760568,29768,37.32,483,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760569,29730,36.84,874,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760592,29780,36.28,1391,BA.1.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760593,29776,36.68,1030,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760594,29629,35.37,2069,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760595,29785,35.93,1698,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760596,29626,25.25,10169,unclassifiable,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760597,29778,36.58,1122,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760598,29758,37.45,409,BA.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760599,29794,37.94,11,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760600,29786,36.38,1311,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760601,29768,37.45,381,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM760602,29788,37.01,800,BA.1.1,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM721684,29777,36.16,1488,BA.1.18,,Bangladesh,Bangladesh,2022-01-29,Homo sapiens
+OM721685,29738,34.63,2715,B.1.1.529,,Bangladesh,Bangladesh,2022-01-29,Homo sapiens
+OM721686,29753,36.8,921,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721687,29792,36.97,775,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721688,29768,37.47,374,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721689,29779,34.74,2659,B.1.617.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721690,29768,37.11,650,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721691,29635,35.39,2152,B.1.1.529,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721692,29765,37.24,557,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721693,29768,37.18,622,BA.2.10,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721694,29724,34.47,2863,B.1.617.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM721695,29737,36.67,1011,BA.2.10,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM721696,29783,35.15,2233,B.1.617.2,,Bangladesh,Bangladesh,2022-01-19,Homo sapiens
+OM721697,29777,35.85,1751,BA.1.1,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM721698,29780,37.16,624,BA.2.10,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM721699,29788,36.95,836,BA.1.1,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM721700,29797,37.35,493,BA.1.1,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM721701,29770,37.43,378,BA.2.10,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM721702,29768,37.5,331,BA.2.10,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM721703,29768,37.08,683,BA.2.10,,Bangladesh,Bangladesh,2022-01-31,Homo sapiens
+OM692452,29811,37.95,5,AY.131,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM692453,29337,26.61,8872,unclassifiable,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM692454,29774,36.63,997,BA.2.10,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM692455,29626,34.57,2499,B.1.1.529,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM692456,29342,27.12,8470,AY.39.1,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM692457,29479,36.85,818,BA.2.10,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM692458,29785,37.41,442,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692459,29787,37.55,336,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692460,29773,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692461,29776,37.89,4,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692462,29631,33.36,3640,B.1.1.529,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692463,29780,36.5,1177,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692464,29766,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692465,29796,37.46,418,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692466,29790,37.72,200,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM692467,29799,37.58,323,BA.1.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM692468,29789,37.33,535,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM692469,29800,37.68,221,BA.1.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM658343,29621,37.41,419,BA.1.1,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM658344,29773,37.83,118,AY.131,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM658345,29634,37.4,423,AY.131,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM638562,29788,37.49,402,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638563,29772,37.51,386,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638564,29688,35.52,1944,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638565,28996,26.53,8809,unclassifiable,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638566,29497,29.87,6372,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638567,29779,37.18,663,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638568,29792,37.93,3,AY.131,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638569,29754,37.73,155,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638570,29790,37.47,418,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638571,29749,37.7,185,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638572,29784,37.41,471,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638573,29790,37.43,454,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638574,29754,37.66,216,BA.2.10,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638575,29771,37.45,438,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638576,29784,37.1,738,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638577,29777,37.41,477,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638578,29766,37.71,187,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638579,29736,33.02,3992,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638580,29779,37.39,477,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638581,29488,37.17,525,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638582,29754,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638583,29761,36.84,896,BA.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM638584,29773,37.48,415,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM617907,29500,25.56,9853,unclassifiable,,Bangladesh,Bangladesh,2022-01-16,Homo sapiens
+OM617908,29394,25.67,9644,unclassifiable,,Bangladesh,Bangladesh,2022-01-16,Homo sapiens
+OM617909,29497,34.76,2551,BA.1.1,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM617910,29468,31.26,5156,BA.2,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM617911,29474,33.24,3757,B.1.1.529,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM617912,29017,24.8,10219,unclassifiable,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM617913,29479,36.52,1067,BA.2,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM617915,29757,37.49,356,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OM617916,29765,37.7,178,BA.2.10,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OM617917,29488,32.41,4287,BA.2,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OM617918,29491,27.87,8021,BA.1.1,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OM617919,29496,28.28,7738,BA.1.1,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OM617920,29483,23.21,11665,unclassifiable,,Bangladesh,Bangladesh,2022-01-25,Homo sapiens
+OM617922,29487,27.1,8590,unclassifiable,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OM617923,29783,37.17,672,BA.1.1,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OM617924,29482,27.84,8022,B.1.1.529,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OM617925,29780,36.23,1385,BA.2,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OM617926,29502,36.33,1285,BA.1.1,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OM617927,29469,26.03,9484,unclassifiable,,Bangladesh,Bangladesh,2022-01-27,Homo sapiens
+OM617928,29495,30.34,6033,BA.1.1,,Bangladesh,Bangladesh,2022-01-29,Homo sapiens
+OM617929,29765,37.55,309,BA.2.10,,Bangladesh,Bangladesh,2022-01-29,Homo sapiens
+OM570229,29026,25.21,9972,unclassifiable,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM570230,29782,35.24,2313,BA.1.1,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM570231,29765,37.89,0,BA.2.37,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570232,29783,37.49,407,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570233,29785,37.49,400,BA.1.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570234,29485,28.75,7219,B.1.1.529,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570235,29762,37.7,172,BA.2.10,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570236,29804,37.93,20,AY.131,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570237,29784,37.54,375,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570238,29785,37.75,191,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570239,29791,36.88,961,BA.1,,Bangladesh,Bangladesh,2022-01-13,Homo sapiens
+OM570242,29794,37.65,255,BA.1.18,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570243,29793,37.84,91,AY.131,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570244,29786,37.51,381,BA.1.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570245,29781,37.03,771,BA.1.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570246,29794,37.55,351,BA.1.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570247,29781,37.5,399,BA.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570248,29783,37.48,401,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570249,29764,37.9,0,BA.2,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570250,29758,36.01,1565,BA.2.10,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570251,29781,37.48,408,BA.1.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570252,29765,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570253,29765,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570254,29765,37.9,0,BA.2,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM570274,29743,37.19,648,BA.1.18,,Bangladesh,Bangladesh,2022-01-02,Homo sapiens
+OM570275,29743,37.18,648,BA.1.1,,Bangladesh,Bangladesh,2022-01-02,Homo sapiens
+OM570276,29743,37.18,649,BA.1.1,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM570277,29743,37.17,657,BA.1.1,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM570278,29729,37.91,1,BA.2.10,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM570279,29729,37.56,281,BA.2.10,,Bangladesh,Bangladesh,2022-01-08,Homo sapiens
+OM570280,29729,37.57,282,BA.2.10,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM570281,29729,37.56,280,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM570282,29714,37.56,282,BA.2.10,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM570283,29729,37.57,283,BA.2.10,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM535885,29782,37.48,414,BA.1.15,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM535886,29767,37.9,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM535887,29795,37.47,433,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533378,29789,37.65,262,BA.1.1,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533379,29786,37.96,0,BA.1.1,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533380,29806,37.95,0,AY.131,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533381,29788,37.66,242,BA.1.1,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533382,29803,37.8,115,AY.131,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533383,29763,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533384,29779,37.53,363,BA.1,,Bangladesh,Bangladesh,2022-01-09,Homo sapiens
+OM533385,29789,37.6,295,BA.1,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533386,29779,37.15,655,BA.1.18,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533387,29785,37.55,331,BA.1,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533388,29802,37.79,125,AY.131,,Bangladesh,Bangladesh,2022-01-11,Homo sapiens
+OM533389,29765,37.68,187,BA.2.10,,Bangladesh,Bangladesh,2022-01-11,Homo sapiens
+OM533391,29803,37.86,66,AY.131,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533392,29745,37.52,304,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533393,29779,37.74,180,BA.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533394,29780,37.96,0,BA.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533395,29635,36.16,1361,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533396,29765,37.87,28,BA.2.10,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533397,29780,37.09,757,BA.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533398,29787,37.61,274,BA.1.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533399,29781,37.27,590,BA.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533400,29763,37.9,0,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533401,29769,36.77,999,BA.1.1,,Bangladesh,Bangladesh,2022-01-14,Homo sapiens
+OM533402,29788,37.57,332,BA.1.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533403,29779,37.56,323,BA.1.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533404,29780,37.66,254,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533405,29780,32.09,4652,BA.1.17,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533406,29782,36.02,1617,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533407,29494,25.25,10013,unclassifiable,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533408,29779,34.74,2611,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533409,29788,37.39,496,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533410,29781,37.47,410,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533411,29802,37.86,71,AY.131,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533412,29756,29.08,6985,B.1.1.529,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533413,29778,35.21,2100,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533414,29783,36.98,825,BA.1.17,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533415,29782,37.47,390,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533416,29777,37.03,768,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533417,29779,32.75,4033,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533418,29783,37.21,623,BA.1.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533419,29781,37.64,269,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533420,29789,37.71,217,BA.1,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533421,29782,37.42,424,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533423,29506,35.07,2336,BA.2.10,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533424,29806,28.65,7346,AY.131,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533425,29798,37.21,646,BA.1.1,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533426,29789,30.2,6102,B.1.1.529,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533427,29791,27.62,8109,AY.39.1,,Bangladesh,Bangladesh,2022-01-10,Homo sapiens
+OM533428,29349,23.51,11374,unclassifiable,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533429,29521,22.68,12158,unclassifiable,,Bangladesh,Bangladesh,2022-01-12,Homo sapiens
+OM533430,29648,22.96,11941,unclassifiable,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+OM533431,29791,32.62,4227,B.1.1.529,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+OM533432,29800,37.93,29,BA.1.1,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+OM533433,29626,28.51,7443,B.1.617.2,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+OM533434,29414,28.56,7313,B.1.617.2,,Bangladesh,Bangladesh,2022-01-15,Homo sapiens
+OM533435,29783,37.29,562,BA.1.18,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM533436,29795,37.64,274,BA.1.18,,Bangladesh,Bangladesh,2022-01-24,Homo sapiens
+OM533437,29809,33.09,3871,B.1.1.529,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM533438,29795,37.5,398,BA.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM533439,29774,37.75,129,BA.2,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM533440,29794,37.51,379,BA.1,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM533441,29766,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM533442,29763,37.71,168,BA.2.10,,Bangladesh,Bangladesh,2022-01-17,Homo sapiens
+OM533446,29769,37.9,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533447,29769,37.9,0,BA.2.10.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533448,29697,37.22,562,BA.2.10,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533449,29788,37.48,407,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533450,29792,37.54,355,BA.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533451,29809,37.85,83,AY.131,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533452,29787,37.76,177,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533453,29785,37.47,413,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533454,29769,37.9,0,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533455,29786,37.49,400,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533456,29787,37.59,321,BA.1.1,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533457,29757,37.76,128,BA.2.10.3,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533458,29765,37.91,0,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533459,29769,37.91,0,BA.2.10,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM533460,29759,37.72,164,BA.2,,Bangladesh,Bangladesh,2022-01-18,Homo sapiens
+OM341396,3813,37.16,0,unclassifiable,,Bangladesh,Bangladesh: Dhaka,2022-01-17,Homo sapiens
+OM277211,29646,36.61,1128,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277212,29371,35.39,2105,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277213,29395,25.69,9675,unclassifiable,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277214,29643,24.29,10770,unclassifiable,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277215,29643,37.35,472,B.1.617.2,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277216,29792,37.82,108,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277217,29641,25.74,9675,unclassifiable,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277218,29638,33.35,3775,B.1.617.2,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277219,29777,37.53,320,AY.121,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277220,29642,34.96,2439,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277221,29643,37.57,279,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277222,29643,36.43,1248,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277223,29645,35.91,1661,AY.127,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277224,29642,32.66,4282,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277225,29793,37.35,500,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277226,29627,36.44,1267,B.1.1.529,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277227,29645,26.88,8894,unclassifiable,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277228,29794,36.29,1414,AY.131,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277229,29644,33.37,3650,B.1.617.2,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277230,29645,36.32,1349,AY.121,,Bangladesh,Bangladesh,2022-01-06,Homo sapiens
+OM277489,29622,36.94,827,BA.1.17.2,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277490,29658,24.09,11106,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277491,29621,37.41,419,BA.1.1,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277492,29654,22.53,12293,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277493,28999,21.81,12578,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277494,29634,21.51,12965,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277495,29010,24.82,10284,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277496,29009,24.26,10632,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277497,29773,37.83,118,AY.131,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277498,29634,37.4,423,AY.131,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277499,29744,37.87,99,B.1.1.529,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277500,29807,37.55,342,B.1.617.2,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277501,29622,36.83,928,BA.1.1,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM277502,29355,23.69,11281,unclassifiable,,Bangladesh,Bangladesh,2022-01-01,Homo sapiens
+OM278285,29646,24.15,10780,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278286,29389,24.06,11050,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278287,29348,20.5,13881,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278288,29774,36.55,1106,B.1.617.2,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278289,29669,32.37,4417,B.1.617.2,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278290,29122,22.58,11964,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278291,29644,21.86,12742,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278292,29685,29.28,6816,B.1.617.2,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278293,29641,21.56,12972,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278294,29022,21.16,13039,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278295,29645,35.0,2472,B.1.617.2,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278296,29655,24.29,10872,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278297,29804,37.96,0,AY.131,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278298,29329,29.39,6769,B.1.617.2,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278299,29644,37.23,640,B.1.617.2,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
+OM278300,29648,23.25,11647,unclassifiable,,Bangladesh,Bangladesh,2022-01-03,Homo sapiens
