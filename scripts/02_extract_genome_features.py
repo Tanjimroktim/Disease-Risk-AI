@@ -2,8 +2,10 @@ from Bio import SeqIO
 from pathlib import Path
 import pandas as pd
 
+# Project root
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+# FASTA file
 fasta_file = BASE_DIR / "data" / "genome" / "sequences.fasta"
 
 records = list(SeqIO.parse(str(fasta_file), "fasta"))
@@ -12,13 +14,13 @@ features = []
 
 for record in records:
 
-    sequence = str(record.seq).upper()
+    seq = str(record.seq).upper()
 
-    length = len(sequence)
+    length = len(seq)
 
-    gc = ((sequence.count("G") + sequence.count("C")) / length) * 100
+    gc = ((seq.count("G") + seq.count("C")) / length) * 100
 
-    n_count = sequence.count("N")
+    n_count = seq.count("N")
 
     features.append({
         "Accession": record.id,
@@ -35,5 +37,5 @@ output = BASE_DIR / "data" / "processed" / "genome_features.csv"
 
 df.to_csv(output, index=False)
 
-print("\nSaved to:")
+print("\nSaved Successfully!")
 print(output)
